@@ -22,21 +22,24 @@
 2. **링 오실레이터 회로 설계**
     - 인버터를 직렬로 연결해 링 오실레이터 구성
         - 인버터 심볼 제작 및 파형
-            
-            ![Screenshot from 2024-12-09 16-02-10.png](attachment:07550874-5d9e-4d8f-b765-9860571f1975:Screenshot_from_2024-12-09_16-02-10.png)
+          
+            <img width="1920" height="1080" alt="Screenshot from 2024-12-09 16-02-10" src="https://github.com/user-attachments/assets/4eecd7bd-ce58-44a9-a8b4-377552b1b7c1" />
+      
             
         - 링오실레이터 스케마틱
-            
-            ![image.png](attachment:6e7c52e3-e816-4608-ba83-e085dd8c7830:image.png)
+     
+            <img width="1312" height="621" alt="스크린샷 2025-08-07 141006" src="https://github.com/user-attachments/assets/240a0221-9778-4d5e-87c5-1ca8d4e6400f" />
+
             
     - 전압원 및 제어신호 삽입
     - 시뮬레이션 환경 설정 후 **오실레이션 주기 및 안정성 확인**
-        
-        ![Screenshot from 2024-12-16 17-01-37.png](attachment:88c5bb95-9087-44df-88a1-59eea44e0133:Screenshot_from_2024-12-16_17-01-37.png)
+  
+        <img width="412" height="485" alt="Screenshot from 2024-12-16 17-01-37" src="https://github.com/user-attachments/assets/2e3dd252-2e5f-42fb-a310-43b13a4bc6ec" />
         
     - 출력 파형 기반으로 진동 주기 분석
-        
-        ![Screenshot from 2024-12-16 17-00-53.png](attachment:dda02c78-814c-4c86-bfed-b0bc425f75a3:Screenshot_from_2024-12-16_17-00-53.png)
+  
+        <img width="999" height="836" alt="Screenshot from 2024-12-16 17-00-53" src="https://github.com/user-attachments/assets/b290ffdf-bc98-4805-8072-2683a3580b5f" />
+
         
 
 ---
